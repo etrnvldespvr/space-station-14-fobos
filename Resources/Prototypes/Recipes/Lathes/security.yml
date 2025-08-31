@@ -700,6 +700,14 @@
     Glass: 20
 
 - type: latheRecipe
+  parent: BaseAmmoRecipe
+  id: GrenadeIncendiary
+  result: GrenadeIncendiary
+  materials:
+    Steel: 750
+    Plastic: 500
+
+- type: latheRecipe
   id: PortableRecharger
   result: PortableRecharger
   completetime: 15

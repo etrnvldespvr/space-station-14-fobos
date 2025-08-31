@@ -112,6 +112,20 @@
         Manipulator: 1
 
 - type: entity
+  id: CBURNTechFabCircuitboard
+  parent: BaseMachineCircuitboard
+  name: cburn techbab circuit board
+  description: A machine printed circuit board for an cburn techfab.
+  components:
+    - type: Sprite
+      state: security
+    - type: MachineBoard
+      prototype: CBURNTechFab
+      stackRequirements:
+        MatterBin: 2
+        Manipulator: 2
+
+- type: entity
   id: MedicalTechFabCircuitboard
   parent: BaseMachineCircuitboard
   name: medical techfab machine board

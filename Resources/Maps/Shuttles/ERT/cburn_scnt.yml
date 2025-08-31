@@ -8460,7 +8460,7 @@ entities:
     - type: Transform
       pos: 6.3981404,-11.282836
       parent: 1
-- proto: SecurityTechFab
+- proto: CBURNTechFab
   entities:
   - uid: 1079
     components:

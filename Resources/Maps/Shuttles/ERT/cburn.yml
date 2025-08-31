@@ -589,7 +589,7 @@ entities:
     - type: Transform
       pos: -1.5,-13.5
       parent: 1
-- proto: AmmoTechFab
+- proto: CBURNTechFab
   entities:
   - uid: 14
     components:
