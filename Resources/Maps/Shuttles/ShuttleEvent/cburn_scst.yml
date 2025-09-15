@@ -11797,7 +11797,7 @@ entities:
     - type: Physics
       canCollide: False
     - type: InsideEntityStorage
-- proto: SecurityTechFab
+- proto: CBURNTechFab
   entities:
   - uid: 1336
     components:

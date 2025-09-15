@@ -69,6 +69,20 @@
   recipes:
   - BorgModuleArrestSecurity
   - BorgModulEnergySecurity
+
+- type: latheRecipePack
+  id: CBURNAmmoStatic
+  recipes:
+  - MagazineShotgunIncendiary
+  - MagazinePistolSubMachineGunIncendiary
+  - MagazinePistolIncendiary
+  - MagazineRifleIncendiary
+  - MagazineLightRifleIncendiary
+  - BoxShotgunIncendiary
+  - MagazineBoxPistolIncendiary
+  - MagazineBoxRifleIncendiary
+  - MagazineBoxLightRifleIncendiary
+  - GrenadeIncendiary
 # DS14-end
 
 ## Dynamic recipes

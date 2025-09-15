@@ -511,3 +511,11 @@
   result: SpeedLoader357
   materials:
     Steel: 1500
+
+- type: latheRecipe
+  parent: BaseAmmoRecipe
+  id: GrenadeIncendiary
+  result: GrenadeIncendiary
+  materials:
+    Steel: 750
+    Plastic: 500
